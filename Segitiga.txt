@@ -1,0 +1,10 @@
+# Luas Segitiga
+Deklarasi
+   luas    :x
+   alas   :25
+   tinggi :30
+Deskripsi
+   Read(alas, tinggi)
+   luas = 1/2 * alas * tinggi
+   write (luas)
+end

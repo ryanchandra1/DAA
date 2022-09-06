@@ -1,0 +1,16 @@
+tabung
+step 1 mendeklarasikan vol, phi, jari -jari, dan tinggi
+step 2 masukkan  nilai - nilai phi=3,14 jari -jari = 6 dan tinggi =10
+step 3 pangkatkan jari jari dengan 2
+step 4 menghitung volume = phi*jari-jari*tinggi
+step 5 menampilkan hasil dari volume tabung
+
+pseudecode
+deklarasi
+var volume, phi, jaari - jari, dan tinggi
+
+phi <-3,14
+jari - jari <-jarai jari**
+tinggi<-10
+vol = phi * jari-jari*tinggi
+write(vol)

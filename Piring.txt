@@ -1,0 +1,17 @@
+piring_1 = "mangga"
+piring_2 = "pepaya"
+piring_3 = "Null"
+
+[nilai awal]
+piring_1 = mangga, piring_2 = pepaya
+
+piring_3 = piring_1
+#proses pertukaran 
+piring_1 = piring_2
+piring_2 = piring_3
+
+[nilai awal]
+piring_1 = mangga, piring_2 = pepaya
+
+[nilai akhir]
+piring_1 = pepaya, piring_2 = mangga

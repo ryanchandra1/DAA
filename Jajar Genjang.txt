@@ -1,0 +1,9 @@
+# Luas jajar genjang
+Deklarasi
+   alas : 5
+   lebar : 3
+Deskripsi
+   read(alas, tinggi)
+   luas = 5 * 3
+   luas = 15
+end
